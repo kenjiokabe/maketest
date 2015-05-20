@@ -1,0 +1,11 @@
+{
+  "name": "maktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "make"
+  },
+  "author": "okb <k@kenjiokabe.com> (http://kenjiokabe.com)",
+  "license": "ISC"
+}
